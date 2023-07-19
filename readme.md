@@ -1,7 +1,5 @@
 ## Hey there, I'm Imp0ster.
 
-![Mfer 7332](mfer-7332_250.png)
-
 I'm a baby web programmer, a veteran, a yogi, and a human multi-tool.
 
 ### Web Programmer
@@ -22,11 +20,13 @@ Daily mindfulness and movement practices have likely saved my life.
 
 ### Human Multi-Tool
 
-I'm not spitting my CV out here but you probably want me on your apocalypse team rather than off it.
+I do a bunch of other shit and I love learning new things and creating stuff within the most hellish of constraints and challenging myself.  
+I would be considered an asset to any apocalypse team.
 
 
 
+### I hope you find a fun little project here to tinker around with, and feedback on my projects is always welcome.
 
-### Anyway, I hope you find a fun little project here to tinker around with.
+You can find me on Twitter using the link in my profile.
 
 ## Thanks for stopping by! ❤️
