@@ -1,6 +1,6 @@
 ## Hey there, I'm Imp0ster.
 
-I'm a baby web programmer, a veteran, a yogi, and a human multi-tool.
+I'm a web programmer, a veteran, a yogi, and a human multi-tool.
 
 ### Web Programmer
 
