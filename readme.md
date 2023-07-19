@@ -1,6 +1,6 @@
 ## Hey there, I'm Imp0ster ❤️
 
-![Mfer 7332](mfer.png)
+![Mfer 7332](mfer-7332_250.png)
 
 
 I'm a baby web programmer, a veteran, a yogi, and a human multi-tool.
