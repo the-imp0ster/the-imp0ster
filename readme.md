@@ -2,8 +2,6 @@
 
 I'm a web programmer, a veteran, a yogi, and a human multi-tool.
 
-### Web Programmer
-
 I build mainly with front-end web languages (HTML/CSS/Javascript).   
 I've written basic apps using Java (🤮) and basic back-ends with SQL (❤️) and C# (❤️).  
 I also tinker with Python and Solidity.
