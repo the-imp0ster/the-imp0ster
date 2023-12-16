@@ -2,9 +2,8 @@
 
 I'm a web programmer, a veteran, a yogi, and a human multi-tool.
 
-I currently build mainly with front-end web languages and libraries.   
-I've written basic apps using Java (🤮) and Python (❤️), and basic back-ends with SQL (❤️) and C# (❤️).  
-I also write small (but growing 🌱) programs with Solidity.
+I currently build mainly front-end goodies and mostly with Javascript, where I can usually be found swimming around in React and p5.js.  
+I've written other goodies with Java (❤️) and Python, and some back-end and database-y stuff as well with SQL (❤️), C#, and... Javascript (❤️).  
 
 I love learning and creating stuff even within the most hellish of constraints.  
 
