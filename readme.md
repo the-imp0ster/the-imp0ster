@@ -1,14 +1,15 @@
-## Hey there, I'm Imp0ster.
+hey there, i'm imp0ster.
 
-I'm a web programmer, a veteran, a yogi, and a human multi-tool.
+i'm a full stack web programmer, a veteran, a yogi, and a human multi-tool.
 
-I currently build mainly front-end goodies and mostly with Javascript, where I can usually be found swimming around in React and p5.js.  
-I've written other goodies with Java (❤️) and Python, and some back-end and database-y stuff as well with SQL (❤️), C#, and... Javascript (❤️).  
+i usually build with javascript et al. but i have experience with other web frameworks and languages including asp.net, java (❤️), python, and sql (❤️).
 
-I love learning and creating stuff even within the most hellish of constraints.  
+i love solving problems and creating stuff even within the most hellish of constraints.
 
-Feedback on my projects is always welcome.
+### i'm currently working on:
 
-You can find me on Twitter using the link in my profile.
+* **[mferwind css](https://github.com/the-imp0ster/mferwind-css)**: a growing custom css library for creating websites with an mferish aesthetic.  i'm really stoked about building this out and it's already fully-functioning and easy to use as-is even though i still have a lot of important things to add to it.  mferwind css is not yet an npm package but you're welcome to try the library or adapt it for use in your own projects. demo and docs can be found [here](https://mferwind-css.vercel.app/).
 
-### I hope you find a fun project or idea here to create with, thanks for stopping by! ❤️
+* **[vectors & physics in a browser](https://github.com/the-imp0ster/p5-sheep-art)**: specifically, modelling the organic movement of a flock of sheep on an html canvas using p5.js to apply "forces" (rules) that influence the flock's movements.  my most recent update now has a wolf that chases the sheep around and they respond realtime.  i am now adding bezier curves to some of the force applications for smoother obstacle avoidance (rocks and the edges of the canvas).  next i'd like to explore modelling wave movements and sea state, possibly using matter.js or another physics library.
+
+### thanks for stopping by ❤️
