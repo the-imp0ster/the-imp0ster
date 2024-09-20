@@ -4,11 +4,12 @@ i'm a full stack web programmer, a veteran, a yogi, and a human multi-tool.
 
 i usually build with react/javascript et al. but i have experience with other web frameworks and languages including:
 * .net/C#
-* java (❤️)
+* java
 * python
-* wordpress (❤️)
-* php (❤️)
-* sql (❤️).
+* wordpress
+* php
+* sql
+* node scripting
 
 i love solving problems and creating stuff even within the most hellish of constraints.
 
